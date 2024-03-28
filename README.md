@@ -14,6 +14,9 @@ The Telegram Scraper is a robust tool designed to extract detailed information f
 ### Prerequisites
 
 You must have a Telegram API ID and API HASH to run this program. Create your own using the following link and insert them into the `config.ini` file:
+
+https://telegram-spam-master.com/en/telegram-api-id-and-hash.html
+
 - Telegram API ID and HASH
 
 ### Required Libraries
